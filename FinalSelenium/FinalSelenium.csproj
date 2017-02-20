@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ExcelLib.cs" />
     <Compile Include="GetMethods.cs" />
     <Compile Include="LoginPageObject.cs" />
     <Compile Include="PopupPageObject.cs" />
